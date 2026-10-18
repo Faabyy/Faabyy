@@ -1,6 +1,6 @@
 I contribute to open-source projects and build small tools of my own.
 
-[![Faabyy's GitHub stats](https://github-stats-extended.vercel.app/api?username=Faabyy&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
+[![Faabyy's GitHub stats](https://github-stats-extended.vercel.app/api?username=Faabyy&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 [![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Faabyy&layout=compact&hide_border=true&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 
 ## Contributions to other projects
