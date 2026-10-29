@@ -37,11 +37,11 @@ A small selection of my merged pull requests
 | Project | Change |
 | --- | --- |
 | pdfcraft | [M10: Office export follows forms 50 deep and up to 50 000 a page and says where it stops](https://github.com/storytold/pdfcraft/pull/3426) |
+| pdfcraft | [Tests: the parser-cancel test guards against a hang, not a 2 s limit](https://github.com/storytold/pdfcraft/pull/3462) |
 | wordcraft | [Layout: a word after a slash wraps whole, like Word](https://github.com/storytold/wordcraft/pull/2985) |
 | wordcraft | [ODT: table column widths are read, so a resized column survives a save](https://github.com/storytold/wordcraft/pull/3391) |
 | deckcraft | [PPTX: a slide that can't be read is reported, not dropped in silence](https://github.com/storytold/deckcraft/pull/802) |
 | deckcraft | [Slides: Ctrl+Shift+click selects a range, also in the slide sorter](https://github.com/storytold/deckcraft/pull/1107) |
-| pdfcraft | [Tests: the parser-cancel test guards against a hang, not a 2 s limit](https://github.com/storytold/pdfcraft/pull/3462) |
 <!-- merged-prs:end -->
 
 [All merged pull requests](https://github.com/search?q=author%3AFaabyy+is%3Apr+is%3Amerged&type=pullrequests)
