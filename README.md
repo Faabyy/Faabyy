@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=Faabyy&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark" alt="Faabyy's GitHub stats" height="165"></a>
-  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faabyy&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" height="165"></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=Faabyy&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=codeSTACKr" alt="Faabyy's GitHub stats" height="165"></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faabyy&layout=compact&hide_border=true&theme=codeSTACKr" alt="Top languages" height="165"></a>
 </p>
 
 ## How I work with AI
