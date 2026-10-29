@@ -42,6 +42,7 @@ A small selection of my merged pull requests
 | wordcraft | [ODT: table column widths are read, so a resized column survives a save](https://github.com/storytold/wordcraft/pull/3391) |
 | deckcraft | [PPTX: a slide that can't be read is reported, not dropped in silence](https://github.com/storytold/deckcraft/pull/802) |
 | deckcraft | [Slides: Ctrl+Shift+click selects a range, also in the slide sorter](https://github.com/storytold/deckcraft/pull/1107) |
+| nym-vpn-client | [Home screen: hide score bar until a gateway is known](https://github.com/nymtech/nym-vpn-client/pull/6723) |
 <!-- merged-prs:end -->
 
 [All merged pull requests](https://github.com/search?q=author%3AFaabyy+is%3Apr+is%3Amerged&type=pullrequests)
