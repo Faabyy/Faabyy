@@ -17,17 +17,17 @@
   <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faabyy&layout=compact&hide_border=true&theme=codeSTACKr" alt="Top languages" height="165"></a>
 </p>
 
-## How I work with AI
-
-- I use **Claude Code** for development and refactoring, including remotely on my own server
-- I define the requirements and the structure, and I review, test and understand what ends up in my repos
-- AI-assisted work is marked in my commits (`Co-Authored-By`) and in the project READMEs
-
 ## What I'm working on
 
 - Training in **system integration**: servers, networking, authentication and automation
 - A self-hosted server with **Docker**, **OMV** and **Tailscale**
 - **Development** on the side: small web apps and plugins that solve a specific problem
+
+## How I work with AI
+
+- I use **Claude Code** for development and refactoring, including remotely on my own server
+- I define the requirements and the structure, and I review, test and understand what ends up in my repos
+- AI-assisted work is marked in my commits (`Co-Authored-By`) and in the project READMEs
 
 ## Open-source contributions
 
