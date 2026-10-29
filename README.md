@@ -21,7 +21,7 @@
 
 - Training in **system integration**: servers, networking, authentication and automation
 - A self-hosted server with **Docker**, **OMV** and **Tailscale**
-- **Development** on the side: small web apps and plugins that solve a specific problem
+- **Development** on the side: contribution to open source projects and small web apps and plugins that solve a specific problem
 
 ## How I work with AI
 
