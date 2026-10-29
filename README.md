@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/tech-stack.svg" alt="Linux, Docker, OMV, authentik, Immich, NYM VPN, GrapheneOS, Tails">
+  <img src="assets/tech-stack.svg?v=2" alt="Linux, Docker, OMV, Immich, authentik, NYM VPN, GrapheneOS, Tails">
 </p>
 
 <p align="center">
