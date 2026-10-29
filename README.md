@@ -4,7 +4,7 @@
 
 <p align="center">
   Apprentice IT specialist for system integration, based in Germany.<br>
-  I self-host my own services, run GrapheneOS on my phone and contribute to privacy tools like the Nym VPN client.<br>
+  I self-host my own services, run GrapheneOS on my phone and use privacy tools like the Nym VPN client.<br>
   I also build small tools for my everyday life and send pull requests to open-source projects.
 </p>
 
