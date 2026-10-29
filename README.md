@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg?v=2" alt="Faabyy – system integration, self-hosting, open source" width="100%">
+  <img src="assets/banner.svg?v=3" alt="Faabyy – system integration, self-hosting, open source" width="100%">
 </p>
 
 <p align="center">
