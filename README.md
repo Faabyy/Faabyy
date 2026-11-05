@@ -53,4 +53,5 @@ A small selection of my merged pull requests
 | --- | --- | --- |
 | [**Zeiterfassung**](https://github.com/Faabyy/Zeiterfassung) | Time tracking with booking validation: legal break times, the 11-hour rest period, weekend surcharges. Runs with Docker, and a functional specification is included in the repo. | FastAPI · React · TypeScript · PostgreSQL |
 | [**homeoffice-rechner**](https://github.com/Faabyy/homeoffice-rechner) | Plans home-office and office days and checks them against a monthly limit. Multiple users, flextime account, public holidays per German state, forecast. Runs on simple web hosting with no dependencies. | PHP · SQLite · JavaScript |
+| [**wunschliste**](https://github.com/Faabyy/wunschliste) | Wish lists for family and friends: others reserve gifts in secret, so the wisher never sees what is taken. Fetches prices from product links and runs on simple web hosting or Docker. | PHP · SQLite · JavaScript |
 | [**tasks-by-folder**](https://github.com/Faabyy/tasks-by-folder) | Obsidian plugin that shows open tasks grouped by folder and sorted by due date. Makes no network requests. | TypeScript · Vitest · esbuild |
